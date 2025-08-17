@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "O2", "CO2", "HO"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Mars", "Jupiter", "Venus", "Saturn"],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the process by which plants make their own food?",
+    "options": ["Photosynthesis", "Respiration", "Transpiration", "Fermentation"],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the chemical formula of table salt?",
+    "options": ["NaCl", "KCl", "CaCO3", "HCl"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which gas do humans exhale?",
+    "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which organ in the human body pumps blood?",
+    "options": ["Heart", "Lungs", "Liver", "Kidney"],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the primary gas in the Earth's atmosphere?",
+    "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Helium"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which vitamin is produced when skin is exposed to sunlight?",
+    "options": ["Vitamin D", "Vitamin A", "Vitamin C", "Vitamin K"],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the basic unit of life?",
+    "options": ["Cell", "Atom", "Molecule", "Organ"],
+    "answer_index": 0
+  },
+  {
+    "question": "What force keeps us on the ground?",
+    "options": ["Gravity", "Friction", "Magnetism", "Centrifugal force"],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the boiling point of water at sea level?",
+    "options": ["100°C", "90°C", "80°C", "120°C"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which part of the plant conducts photosynthesis?",
+    "options": ["Leaves", "Roots", "Stem", "Flowers"],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Mitochondria", "Nucleus", "Ribosome", "Chloroplast"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which planet has the strongest gravity in the solar system?",
+    "options": ["Jupiter", "Earth", "Saturn", "Neptune"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which gas is essential for human respiration?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Helium"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which particle has a negative charge?",
+    "options": ["Electron", "Proton", "Neutron", "Photon"],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the center of an atom called?",
+    "options": ["Nucleus", "Electron cloud", "Proton", "Neutron"],
+    "answer_index": 0
+  },
+  {
+    "question": "What type of blood cells help fight infections?",
+    "options": ["White blood cells", "Red blood cells", "Platelets", "Plasma"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which gas is used in balloons to make them float?",
+    "options": ["Helium", "Oxygen", "Nitrogen", "Carbon dioxide"],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the main component of the Sun?",
+    "options": ["Hydrogen", "Helium", "Oxygen", "Carbon"],
+    "answer_index": 0
+  }
+]
